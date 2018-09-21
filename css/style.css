@@ -167,14 +167,6 @@ code {
     background: #FFF url(../img/cheatsheet.png) no-repeat;
 }
 
-.announcement {
-    margin-bottom: 40px;
-}
-
-.announcement img {
-    border-radius: 4px;
-}
-
 #carbonads {
   display: block;
   overflow: hidden;
