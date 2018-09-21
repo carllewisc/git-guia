@@ -1,4 +1,9 @@
-# Git - The Simple Guide
+# Git - Repositorio
 
-http://carllewisc.github.io/git-guide/
+https://github.com/carllewisc/git-guide/
+
+# Git - GitHub pages
+
+https://carllewisc.github.io/git-guide/
+
 
