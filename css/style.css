@@ -213,3 +213,8 @@ code {
   letter-spacing: 1px;
   font-size: 9px;
 }
+
+/* --- Resposive --- */
+.img-fluid, img {
+	max-width: 100%;
+}
